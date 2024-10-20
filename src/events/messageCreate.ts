@@ -1,6 +1,6 @@
 import { Events, type Message } from 'discord.js';
 
-import { guildId } from '@/config';
+import { guildId } from '@/configuration';
 import { verifyRegex } from '@/constants';
 import type { Event } from '@/types';
 

@@ -10,3 +10,6 @@ verify_channel = ""
 [api]
 url = "https://api.turkb.us/v2"
 token = ""
+
+[application]
+questions = []

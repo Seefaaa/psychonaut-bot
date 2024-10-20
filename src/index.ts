@@ -1,6 +1,6 @@
 import { Client, Collection, GatewayIntentBits } from 'discord.js';
 
-import { botToken } from '@/config';
+import { botToken } from '@/configuration';
 import { deployCommands } from '@/utils';
 
 const client = new Client({

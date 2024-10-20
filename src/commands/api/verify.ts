@@ -6,7 +6,7 @@ import {
 	type TextChannel,
 } from 'discord.js';
 
-import config from '@/config';
+import config from '@/configuration';
 import { verifyRegex } from '@/constants';
 import logger from '@/logger';
 import type { Command } from '@/types';

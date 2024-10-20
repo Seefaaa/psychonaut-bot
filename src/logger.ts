@@ -2,7 +2,7 @@ import { once } from 'events';
 import pino from 'pino';
 import pretty from 'pino-pretty';
 
-import config from '@/config';
+import config from '@/configuration';
 import { name } from '@/package';
 
 async function createLogger() {

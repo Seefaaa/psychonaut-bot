@@ -5,3 +5,4 @@ export * from './api/playtime';
 export * from './api/verify';
 export * from './api/who';
 export * from './utility/ping';
+export * from './utility/test';
